@@ -1,0 +1,57 @@
+/* .body_image
+{
+width :"50vw" ;
+    height:"30vh";
+   
+} */
+/* 
+/* .os-animation animated slideInUp{
+    background-color: lightslategray;
+}
+
+.skill_block{
+    background-color:black;
+    display: inline;
+}
+.second_section{
+    background-color: black;
+} */
+body{
+    background-image: url('blue-toned-set-paper-sheets-with-copy-space.jpg');
+}
+
+.first_section{
+    text-align: center;
+}
+
+
+
+/* p{
+    text-decoration-color: brown;
+} */
+
+.third_section{
+    text-align: left;
+    background-color: aliceblue;
+}
+.about_block{
+    text-align: center;
+}
+
+.project_image1{
+    width: 50%;
+    height: 55%;
+    
+}
+.fourth_section{
+    background-color: aliceblue;
+}
+
+.second_section{
+    background-color: aliceblue;
+
+}
+.description_block{
+    text-align: justify;
+}
+
